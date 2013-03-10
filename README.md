@@ -104,14 +104,14 @@ Trace du travail effectué le 04/03 :
 ```
 Dresseur1: @pikachuNyanNyan #attack #Foudre @bulbizare1 /cc @dresseur2  @arbitre1
 Dresseur2: @bulbizare1 #attack #Baston @pikachuNyanNyan /cc @dresseur1  @arbitre1
-pikachuNyanNyan : #attack #Foudre @bulbizare1 /cc @arbitre1 @dresseur1  @dresseur2
-bulbizare1 : #attack #Baston @pikachuNyanNyan /cc @arbitre1 @dresseur1  @dresseur2
+pikachuNyanNyan : @bulbizare1 #attack #Foudre /cc @arbitre1 @dresseur1  @dresseur2
+bulbizare1 : @pikachuNyanNyan #attack #Baston /cc @arbitre1 @dresseur1  @dresseur2
 Arbitre1: @pikachuNyanNyan -10pv /cc @dresseur1
 Arbitre1: @bulbizare1 -100pv /cc @dresseur2
 Dresseur1: @pikachuNyanNyan #attack #Foudre @bulbizare1 /cc @dresseur2  @arbitre1
 Dresseur2: @bulbizare1 #attack #Baston @pikachuNyanNyan /cc @dresseur1  @arbitre1
 pikachuNyanNyan : #dodo /cc @arbitre1 @dresseur1  @dresseur2
-bulbizare1 : #attack #Baston @pikachuNyanNyan /cc @arbitre1 @dresseur1  @dresseur2
+bulbizare1 : @pikachuNyanNyan #attack #Baston /cc @arbitre1 @dresseur1  @dresseur2
 Arbitre1: @pikachuNyanNyan -10pv /cc @dresseur1
 Arbitre1: @bulbizare1 +0pv /cc @dresseur2
 pikachuNyanNyan : #KO /cc @arbitre1 @dresseur1  @dresseur2
